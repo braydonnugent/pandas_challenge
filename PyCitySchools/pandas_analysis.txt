@@ -1,0 +1,5 @@
+After manipulation & analysation of the data, it is now possible to identify which schools are exceeding expectations or under performing in mathematics or reading. With the accompanied data, we can draw conclusions to what it may be that results in said outcomes.
+
+After analysing the manipulated data, some conclusions we are able to draw are students appear to be more successful in passing not just in maths & reading, but overall when the schools population is less. This could mean there is not as much support for students as limited staff struggle to assist students consistently.
+
+Referring to the school type charts, as well as the top & bottom performing schools, students among independent schools are noticably more successful than students in government schools. Following my previous point, there appear to be less students enrolled in independant schools, meaning less demmand for staff to accomodate students needs.
